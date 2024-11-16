@@ -1,4 +1,5 @@
 # AI-AGENT
+Uploading freecompress-VIDEO.mp4…
 
 This project is a web application that allows users to connect their Google Sheets, search through the data, and display it on a dashboard. It leverages the Google Sheets API and provides a seamless way to manage and query data for various use cases.
 This project is a web application that allows users to connect their Google Sheets and query data through a user-friendly dashboard. The application leverages the Google Sheets API to fetch real-time data from a specified Google Sheet and display it in an organized, searchable format. This tool is ideal for users who need to manage and search through large datasets without requiring advanced technical skills.
